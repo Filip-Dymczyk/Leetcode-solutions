@@ -3,6 +3,8 @@
 - author: Filip Dymczyk.
 
 ### Questions solved:
+- TwoSum (Easy),
+- isPalindrome (Easy),
 - 
 
 
