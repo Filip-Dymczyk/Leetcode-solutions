@@ -1,8 +1,8 @@
-#### This repository contains Leetcode questions solutions.
-- technology used: Python3,
+### This repository contains Leetcode questions solutions.
+- technology used: Python3 🐍,
 - author: Filip Dymczyk.
 
-### Questions solved:
+### Questions solved ✅:
 - TwoSum (Easy),
 - isPalindrome (Easy),
 - 
