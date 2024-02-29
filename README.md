@@ -5,6 +5,7 @@
 ### Questions solved ✅:
 - TwoSum (Easy),
 - isPalindrome (Easy),
+- Roman to Iteger (easy),
 - 
 
 
