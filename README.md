@@ -7,6 +7,7 @@
 - isPalindrome (Easy),
 - Roman to Integer (Easy),
 - Longest common Prefix (Easy),
+- IsValid (Easy),
 - 
 
 
