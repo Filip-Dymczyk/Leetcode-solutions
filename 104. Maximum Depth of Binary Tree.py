@@ -9,12 +9,11 @@ class TreeNode:
 
 
 class Solution:
-    def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
-
-        def check_identity(node_p: Optional[TreeNode], node_q: Optional[TreeNode]) -> bool:
-            if not node_p and not node_q:
-                return True
-            elif node_p and node_q:
-                return (node_p.val == node_q.val) and check_identity(node_p.left, node_q.left) and check_identity(node_p.right, node_q.right)
-            return False
-        return check_identity(p, q)
+    def maxDepth(self, root: Optional[TreeNode]) -> int:
+        def in_max_depth(node: Optional[TreeNode]) -> int:
+            if not node:
+                return 0
+            max_left = 1 + in_max_depth(node.left)
+            max_right = 1 + in_max_depth(node.right)
+            return max(max_left, max_right)
+        return in_max_depth(root)
