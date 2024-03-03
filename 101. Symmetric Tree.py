@@ -9,12 +9,13 @@ class TreeNode:
 
 
 class Solution:
-    def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
+    def isSymmetric(self, root: Optional[TreeNode]) -> bool:
 
-        def check_identity(node_p: Optional[TreeNode], node_q: Optional[TreeNode]) -> bool:
-            if not node_p and not node_q:
+        def check_symmetry(node_left: Optional[TreeNode], node_right: Optional[TreeNode]) -> bool:
+            if not node_left and not node_right:
                 return True
-            elif node_p and node_q:
-                return (node_p.val == node_q.val) and check_identity(node_p.left, node_q.left) and check_identity(node_p.right, node_q.right)
+            elif node_left and node_right:
+                return node_left.val == node_right.val and check_symmetry(node_left.left, node_right.right) and \
+                    check_symmetry(node_left.right, node_right.left)
             return False
-        return check_identity(p, q)
+        return check_symmetry(root.left, root.right)
