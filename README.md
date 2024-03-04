@@ -15,6 +15,22 @@
 - Search Insert Postion,
 - Length of Last Word,
 - Plus one,
-- 
+- Add binary,
+- Sqrt(x),
+- Climbing Stairs,
+- Remove Duplicates from Sorted List,
+- Merge Sorted Array,
+- Binary Tree Inorder Traversal,
+- Same Tree,
+- Symmetric Tree,
+- Maximum Depth of Binary Tree,
+- Minimum Depth of Binary Tree,
+- Path Sum,
+- Pascal's Triangle,
+- Pascal's Triangle II,
+- Best Time to Buy and Sell Stock.
+- Valid Palindrome,
+- Single Number,
+- Linked List Cycle, 
 
 
