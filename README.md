@@ -31,6 +31,9 @@
 - Best Time to Buy and Sell Stock.
 - Valid Palindrome,
 - Single Number,
-- Linked List Cycle, 
+- Linked List Cycle,
+- Binary Tree Preorder Traversal,
+- Binary Tree Postorder Traversal,
+- 
 
 
