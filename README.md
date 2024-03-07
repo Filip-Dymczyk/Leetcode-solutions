@@ -34,6 +34,9 @@
 - Linked List Cycle,
 - Binary Tree Preorder Traversal,
 - Binary Tree Postorder Traversal,
+- Excel Sheet Column Title,
+- Majority Element,
+- Excel Sheet Column Number,
 - 
 
 
