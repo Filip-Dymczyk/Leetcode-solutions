@@ -37,6 +37,13 @@
 - Excel Sheet Column Title,
 - Majority Element,
 - Excel Sheet Column Number,
+- Reverse Bits,
+- Number of 1 Bits,
+- Happy Number,
+- Remove Linked List,
+- Isomorphic Strings,
+- Reverse Linked List,
+- Contains Duplicate,
 - 
 
 
