@@ -44,6 +44,9 @@
 - Isomorphic Strings,
 - Reverse Linked List,
 - Contains Duplicate,
+- Product of Array Except Self,
+- Add Two Numbers,
+- Longest Substring Without Repeating Characters,
 - 
 
 
