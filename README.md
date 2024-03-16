@@ -47,6 +47,8 @@
 - Product of Array Except Self,
 - Add Two Numbers,
 - Longest Substring Without Repeating Characters,
+- Longest Palindromic Substring,
+- Zigzag Conversion,
 - 
 
 
