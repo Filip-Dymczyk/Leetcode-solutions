@@ -49,6 +49,10 @@
 - Longest Substring Without Repeating Characters,
 - Longest Palindromic Substring,
 - Zigzag Conversion,
+- Reverse Integer,
+- String to Integer (atoi),
+- Container With Most Water,
+- Integer to Roman,
 - 
 
 
