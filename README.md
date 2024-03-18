@@ -53,6 +53,11 @@
 - String to Integer (atoi),
 - Container With Most Water,
 - Integer to Roman,
+- 3Sum,
+- 3Sum Closest,
+- Letter Combination of a Phone Number,
+- 4Sum,
+- Remove Nth Node From End of List,
 - 
 
 
