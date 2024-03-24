@@ -58,6 +58,8 @@
 - Letter Combination of a Phone Number,
 - 4Sum,
 - Remove Nth Node From End of List,
+- Maximum Average Pass Ratio,
+- Valid Sudoku,
 - 
 
 
