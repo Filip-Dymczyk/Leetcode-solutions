@@ -60,6 +60,12 @@
 - Remove Nth Node From End of List,
 - Maximum Average Pass Ratio,
 - Valid Sudoku,
+- Contains Duplicate II,
+- Count Complete Tree Nodes,
+- Implement Stack using Queues,
+- Invert Binary Tree,
+- Summary Ranges,
+- Power of Two,
 - 
 
 
