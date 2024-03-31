@@ -66,6 +66,14 @@
 - Invert Binary Tree,
 - Summary Ranges,
 - Power of Two,
+- Implement Queue using Stacks,
+- Palindrome Linked List,
+- Valid Anagram,
+- Binary Tree Paths,
+- Add Digits,
+- Ugly Number,
+- Missing Number,
+- First Bad Version,
 - 
 
 
