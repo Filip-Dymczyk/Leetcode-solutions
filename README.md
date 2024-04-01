@@ -74,6 +74,17 @@
 - Ugly Number,
 - Missing Number,
 - First Bad Version,
+- Move Zeroes,
+- Word Pattern,
+- Range Sum Query - Immutable,
+- Power of Three,
+- Counting Bits,
+- Power of Four,
+- Reverse String,
+- Reverse Vowels of a String,
+- Intersection of Two Arrays,
+- Intersection of Two Arrays II,
 - 
+  
 
 
