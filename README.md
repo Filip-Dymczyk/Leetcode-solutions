@@ -84,6 +84,11 @@
 - Reverse Vowels of a String,
 - Intersection of Two Arrays,
 - Intersection of Two Arrays II,
+- Group Anagrams,
+- Pow(x, n),
+- Rotate List,
+- Unique Paths,
+- Search 2D Matrix,
 - 
   
 
