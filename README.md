@@ -90,6 +90,13 @@
 - Unique Paths,
 - Search 2D Matrix,
 - Sort Colors,
+- Combinations,
+- Word Search,
+- Find First and Position of Element in Sorted Array,
+- Search in Rotated Sorted Array,
+- Maximum Subarray,
+- Unique Paths II,
+- Minimum Path Sum,
 - 
   
 
