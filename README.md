@@ -97,6 +97,9 @@
 - Maximum Subarray,
 - Unique Paths II,
 - Minimum Path Sum,
+- Number of Students Unable to Eat Lunch solution,
+- Remove Duplicates from Sorted List II solution,
+- Partition List solution,
 - 
   
 
